@@ -1,0 +1,21 @@
+{
+  "name": "jsonp-plus",
+  "version": "1.0.0",
+  "description": "jsonp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talrasha007/jsonp-plus.git"
+  },
+  "keywords": [
+    "jsonp",
+    "promise",
+    "react"
+  ],
+  "author": "Tal Rasha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talrasha007/jsonp-plus/issues"
+  },
+  "homepage": "https://github.com/talrasha007/jsonp-plus#readme"
+}
